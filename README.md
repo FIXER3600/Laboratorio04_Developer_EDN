@@ -9,7 +9,7 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="80" alt="S3 Logo"/>-
 <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-64-1.svg" width="80" alt="Lambda Logo"/>-
-<img src="https://images.seeklogo.com/logo-png/43/1/aws-api-gateway-logo-png_seeklogo-430924.png" width="80" alt="API Gateway Logo"/>-
+<img src="https://raw.githubusercontent.com/pulumi/pulumi-aws-apigateway/main/assets/logo.png" width="80" alt="API Gateway Logo"/>-
 <img src="https://github.com/HalleyVeras/Escola_da_Nuvem/blob/main/Documentos/download%20(4)_processed.png?raw=true" width="180" alt="EDN Logo">
 
 </div>

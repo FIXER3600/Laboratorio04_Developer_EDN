@@ -49,7 +49,7 @@ Acesse o console da AWS com a conta fornecida pela Escola da Nuvem. Caso apareç
 
 1.4 Escolha o runtime: **Python 3.9**. Clique em **Criar função** no final da página.
 
-1.5 Baixe o arquivo `.zip` chamado `lambda_function.zip` no Google Sala de Aula.
+1.5 Baixe o arquivo `.zip` chamado `lambda_function.zip`.
 
 ---
 
@@ -148,9 +148,6 @@ Clique em **Salvar alterações**.
 > Verifique se não há espaços em branco no início ou final do JSON.
 
 5.8 Salve as alterações. Agora seu site estará disponível publicamente!
-
----
-🎥 Demonstrações em Vídeo
 
 ---
 
